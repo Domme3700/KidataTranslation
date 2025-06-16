@@ -47,7 +47,7 @@ export const CreateDisplayTrans = {
     },
     playerToken: {
       en: "Player / Token",
-      de: "Spieler / Token",
+      de: "Player / Token",
     },
   },
   forms: {
@@ -61,7 +61,7 @@ export const CreateDisplayTrans = {
             },
             subtitle: {
               en: "Your digital signage device can be an LCD screen, floor stand screen, tablet, LED video wall, LCD panel, smartphone, or any other digital display device. Select your device type on the next page.",
-              de: "Ihr Digital Signage Gerät kann ein LCD-Bildschirm, ein Bodenständerbildschirm, ein Tablet, eine LED-Videowand, ein LCD-Panel, ein Smartphone oder ein anderes digitales Ausgabegerät sein. Wählen Sie Ihren Digital Signage Gerätetyp auf der nächsten Seite aus.",
+              de: "Ihr Digital Signage Gerät kann ein LCD Bildschirm, ein LCD Floorstand, ein Tablet, eine LED Video Wall, ein LCD-Panel, ein Smartphone oder jedes andere digitale Ausgabegerät sein. Ihr Digitales Signage Gerät (Display) wählen Sie auf der nächsten Seite.",
             },
           },
           items: {
@@ -111,8 +111,8 @@ export const CreateDisplayTrans = {
                 de: "Schlüsselwörter",
               },
               placeHolder: {
-                en: "Enter your keywords here, separated by commas (,).",
-                de: "Geben Sie hier Ihre Schlüsselwörter ein, getrennt durch Kommas (,).",
+                en: "Here you can enter your keywords",
+                de: "Hier können Sie Ihre Schlüsselwörter eingeben",
               },
               validationMsg: {
                 required: {
@@ -131,11 +131,11 @@ export const CreateDisplayTrans = {
           header: {
             title: {
               en: "Create / select category",
-              de: "Kategorie erstellen / auswählen",
+              de: "Kategorie anlegen / auswählen",
             },
             subtitle: {
               en: "Create a category. Assign a category to your digital signage device",
-              de: "Erstellen Sie eine Kategorie. Weisen Sie Ihrem Digital Signage Gerät eine Kategorie zu",
+              de: "Legen Sie eine Kategorie an. Ordnen Sie Ihrem Digital Signage Gerät eine Kategorie zu",
             },
           },
           items: {
@@ -145,8 +145,8 @@ export const CreateDisplayTrans = {
                 de: "Kategorie wählen",
               },
               placeHolder: {
-                en: "Choose category",
-                de: "Kategorie wählen",
+                en: "Choose a category",
+                de: "Kategorie auswählen",
               },
               validationMsg: {
                 required: {
@@ -166,7 +166,7 @@ export const CreateDisplayTrans = {
             header: {
               title: {
                 en: "Information: Public / Private",
-                de: "Informationen: Öffentlich / Privat",
+                de: "Information: Öffentlich / Privat",
               },
               subtitle: {
                 en: "Here you indicate who you want to make the information on your display accessible to.",
