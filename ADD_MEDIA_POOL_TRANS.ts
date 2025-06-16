@@ -14,7 +14,7 @@ export const AddMediaPoolTrans = {
       generalInformation: {
         header: {
           title: {
-            en: "Genreal Information",
+            en: "Genreal information",
             de: "Allgemeine Informationen",
           },
           subtitle: {
@@ -29,7 +29,7 @@ export const AddMediaPoolTrans = {
               de: "Titel",
             },
             placeHolder: {
-              en: "Type a title for your file(s)",
+              en: "Enter a title for your file(s) here",
               de: "Geben Sie einen Titel für Ihre Datei(en) ein",
             },
             validationMsg: {
@@ -49,7 +49,7 @@ export const AddMediaPoolTrans = {
               de: "Beschreibung",
             },
             placeHolder: {
-              en: "Type a description for your file(s)",
+              en: "Enter a description for your file(s) here",
               de: "Geben Sie eine Beschreibung für Ihre Datei(en) ein.",
             },
             validationMsg: {
@@ -69,8 +69,8 @@ export const AddMediaPoolTrans = {
               de: "Schlüsselwörter",
             },
             placeHolder: {
-              en: "Enter your keywords here, separated by commas (,).",
-              de: "Geben Sie hier Ihre Schlüsselwörter ein, getrennt durch Kommas (,).",
+              en: "Here you can enter your keywords",
+              de: "Geben Sie hier Ihre Schlüsselwörter ein",
             },
             validationMsg: {
               required: {
@@ -134,12 +134,12 @@ export const AddMediaPoolTrans = {
       category: {
         header: {
           title: {
-            en: "Create / select category",
-            de: "Kategorie erstellen / auswählen",
+            en: "Choose category",
+            de: "Kategorie auswählen",
           },
           subtitle: {
-            en: "Create a category. Assign a category to your digital signage device",
-            de: "Erstellen Sie eine Kategorie. Weisen Sie Ihrem Digital Signage Gerät eine Kategorie zu",
+            en: "Here you can assign your file(s) to a category",
+            de: "Hier können Sie Ihrer Datei eine Kategorie zuordnen",
           },
         },
         items: {
@@ -149,8 +149,8 @@ export const AddMediaPoolTrans = {
               de: "Kategorie wählen",
             },
             placeHolder: {
-              en: "Choose category",
-              de: "Kategorie wählen",
+              en: "Choose a category",
+              de: "Wählen Sie eine Kategorie",
             },
             validationMsg: {
               required: {
@@ -229,7 +229,7 @@ export const AddMediaPoolTrans = {
                   de: "Nur HD-, FullHD-, 4KUHD-, 8KUHD-Medien können als Hintergrund festgelegt werden!",
                 },
                 tooltipFileTypeMessage: {
-                  en: "only image can set as background!",
+                  en: "only images can be set as background!",
                   de: "Nur Bilder können als Hintergrund festgelegt werden!",
                 },
               },
